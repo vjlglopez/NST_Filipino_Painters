@@ -1,4 +1,4 @@
-# NST_Filipino_Painters
+<center><img src="./ntbk_contents/title_gif.gif" alt="Title GIF" /></center>
 
 #### Dataset Download:
 
