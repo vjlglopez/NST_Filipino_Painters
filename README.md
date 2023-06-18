@@ -16,6 +16,14 @@
 pip install -r requirements.txt
 ```
 
-#### Upload Your Own Images and Explore the Different Styles of Renowned Filipino Painters!
+### Here are some of the Results you will see in the notebook implementation:
+
+Ang Kiukok's Untitled Dogs 2000 to our Content Image (Family Photo):
+<center><img src="./ntbk_contents/gif_kiukok.gif" alt="Title GIF" height=400px width=400px/></center>
+
+Benedicto Cabrera or BenCab's Sabel to our Content Image (Family Photo):
+<center><img src="./ntbk_contents/gif_cabrera.gif" alt="Title GIF" height=400px width=400px/></center>
+
+## Upload Your Own Images and Explore the Different Styles of Renowned Filipino Painters!
 
 **This is in partial fulfillment of the course Machine Learning 3 for the completion of the Final Project.**
