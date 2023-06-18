@@ -10,8 +10,12 @@
 - Optionally, you can set up a Conda environment by installing Conda from the Anaconda distribution (https://www.anaconda.com/products/individual).
 - Open a terminal or command prompt and create a new Python environment using the desired tool (e.g., conda create --name myenv or python -m venv myenv).
 - Activate the newly created environment using the appropriate command (conda activate myenv or source myenv/bin/activate).
-- Install the required libraries, packages, and modules by executing the following command:
+- Install the required libraries, packages, and modules by executing the following command: (The requirements.txt file can be found from this repository)
 
 ```python
 pip install -r requirements.txt
 ```
+
+#### Upload Your Own Images and Explore the Different Styles of Renowned Filipino Painters!
+
+**This is in partial fulfillment of the course Machine Learning 3 for the completion of the Final Project.**
